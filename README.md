@@ -12,7 +12,7 @@ The specific goals for the data wrangling phase are:
 2. **Data Consistency**: Ensure that the data is in a standard format.
 3. **Data Accuracy**: Ensure that the data is correct and reliable.
 
-These goals align with the overall objectives of the project by [insert how these goals align with the project objectives here].
+These goals align with the overall objectives of the project by  by ensuring that the data used for analysis is complete, consistent, and accurate. This allows for more reliable and insightful conclusions to be drawn from the data, thereby enabling a comprehensive understanding of the demographic data about the population in Tokyo. This understanding can then be leveraged to inform decision-making or other relevant applications.
 
 ## Constraints and Limitations
 

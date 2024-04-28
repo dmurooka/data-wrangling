@@ -2,7 +2,7 @@
 
 ## Project Requirements
 
-The primary objective of this project is to [insert project objective here]. The role of data wrangling in achieving this objective is [insert role of data wrangling here].
+The primary objective of this project is to understand the demographic data about population in Tokyo, Japan. The role of data wrangling in achieving this objective is to collect, clean, and transform the data.
 
 ## Data Wrangling Goals
 
